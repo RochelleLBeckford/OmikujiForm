@@ -27,7 +27,7 @@ Test: Show how to add a web browser
 	- [ ] Go to localhost/port in your web browser to see the project 
 		- [ ] localhost:8080
 	- [ ] Ctrl + c will stop the spring boot application 
-- [] update [application.properties](/src/main/resources/application.properties)
+- [ ] update [application.properties](/src/main/resources/application.properties)
 <!-- how to put in code blocks us ```-->
 ```
 # Where are jsp files? HERE!
@@ -42,7 +42,7 @@ spring.mvc.hiddenmethod.filter.enabled=true
 ```
 
 - ### After adding this to my pom fie it will ask if you want to update -> always say yes
-- [] [pom.xml](pom.xml)
+- [ ] [pom.xml](pom.xml)
 ```
 		<!-- 
 		& add the two dependency files here 
@@ -86,7 +86,7 @@ spring.mvc.hiddenmethod.filter.enabled=true
 		</dependency>
 ```
 
-- [] add [index.jsp](src/main/webapp/WEB-INF/index.jsp)
+- [ ] add [index.jsp](src/main/webapp/WEB-INF/index.jsp)
 <!-- 
 when you make this 
     -> can click it and vs code will say the file is not there 
@@ -119,4 +119,4 @@ when you make this
 </html>
 
 ```
-- [] add controller [MainController.java](src/main/java/com/rochelle/omikuji_form/controllers/MainController.java)# OmikujiForm
+- [ ] add controller [MainController.java](src/main/java/com/rochelle/omikuji_form/controllers/MainController.java)# OmikujiForm
